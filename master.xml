@@ -9,7 +9,23 @@
             <url>null</url>
             <link>null</link>
         </image>
-        <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+        <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+        <item>
+            <title>Nano Machine</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Nano_Machine.xml</link>
+            <description>Master RSS webtoon feed - Nano Machine</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/270399/conversions/01JKTBDEEZRNKTH6TRHPF5PCXM-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">dfd1c90fb307a7deadd63a2fa433217976d59ee8</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Solo Max-Level Newbie</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Solo_Max_Level_Newbie.xml</link>
+            <description>Master RSS webtoon feed - Solo Max-Level Newbie</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/272496/conversions/01JMHFP0DBPD906JMCZNAKG1RH-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">a7c0277d14f2ed6297930da3668ca94b71b79000</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title>Pick Me Up, Infinite Gacha</title>
             <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Pick_Me_Up,_Infinite_Gacha.xml</link>
@@ -57,22 +73,6 @@
             <content:encoded><![CDATA[<img src="https://manhuaus.com/wp-content/uploads/2024/12/Global-Beast-Tamer-193x278.webp" />]]></content:encoded>
             <guid isPermaLink="false">004c32fb630fb1c74773d69adf717229e35a582e</guid>
             <pubDate>Sat, 30 Aug 2025 18:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title>Solo Max-Level Newbie</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Solo_Max_Level_Newbie.xml</link>
-            <description>Master RSS webtoon feed - Solo Max-Level Newbie</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/272496/conversions/01JMHFP0DBPD906JMCZNAKG1RH-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">a7c0277d14f2ed6297930da3668ca94b71b79000</guid>
-            <pubDate>Sat, 30 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title>Nano Machine</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Nano_Machine.xml</link>
-            <description>Master RSS webtoon feed - Nano Machine</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/270399/conversions/01JKTBDEEZRNKTH6TRHPF5PCXM-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">dfd1c90fb307a7deadd63a2fa433217976d59ee8</guid>
-            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Superhuman Battlefield</title>
