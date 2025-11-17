@@ -9,7 +9,23 @@
             <url>null</url>
             <link>null</link>
         </image>
-        <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+        <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        <item>
+            <title>Revenge of the Iron-Blooded Sword Hound</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Revenge_of_the_Iron_Blooded_Sword_Hound.xml</link>
+            <description>Master RSS webtoon feed - Revenge of the Iron-Blooded Sword Hound</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/298/conversions/01J7TV2G7719CVSTSW9T9M6F31-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">480b859e7672c0e0cb3dcf46e028ae2d98b36874</guid>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Solo Max-Level Newbie</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Solo_Max_Level_Newbie.xml</link>
+            <description>Master RSS webtoon feed - Solo Max-Level Newbie</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/272496/conversions/01JMHFP0DBPD906JMCZNAKG1RH-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">a7c0277d14f2ed6297930da3668ca94b71b79000</guid>
+            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title>Nano Machine</title>
             <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Nano_Machine.xml</link>
@@ -41,22 +57,6 @@
             <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/103/conversions/9ab6b724-optimized.webp" />]]></content:encoded>
             <guid isPermaLink="false">fca6306a1566cf17e0336d891f8b8bfe515f0efe</guid>
             <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title>Revenge of the Iron-Blooded Sword Hound</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Revenge_of_the_Iron_Blooded_Sword_Hound.xml</link>
-            <description>Master RSS webtoon feed - Revenge of the Iron-Blooded Sword Hound</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/298/conversions/01J7TV2G7719CVSTSW9T9M6F31-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">480b859e7672c0e0cb3dcf46e028ae2d98b36874</guid>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title>Solo Max-Level Newbie</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Solo_Max_Level_Newbie.xml</link>
-            <description>Master RSS webtoon feed - Solo Max-Level Newbie</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/272496/conversions/01JMHFP0DBPD906JMCZNAKG1RH-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">a7c0277d14f2ed6297930da3668ca94b71b79000</guid>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Solo Leveling: Ragnarok</title>
