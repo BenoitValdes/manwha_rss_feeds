@@ -9,14 +9,54 @@
             <url>null</url>
             <link>null</link>
         </image>
-        <pubDate>Fri, 12 Dec 2025 14:10:50 GMT</pubDate>
+        <pubDate>Tue, 16 Dec 2025 08:30:36 GMT</pubDate>
         <item>
             <title>Don’t Toy With Me, Miss Nagatoro</title>
             <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Dont_Toy_With_Me_Miss_Nagatoro.xml</link>
             <description>Master RSS webtoon feed - Don’t Toy With Me, Miss Nagatoro</description>
-            <content:encoded><![CDATA[<img src="https://nagatoro-san-manga.com/wp-content/uploads/2021/12/Comic_Anthology_4-1.jpg" />]]></content:encoded>
+            <content:encoded><![CDATA[<img src="https://i.ebayimg.com/images/g/d2AAAOSwQtphVSfc/s-l400.jpg" />]]></content:encoded>
             <guid isPermaLink="false">80282651c138b3337f4bc476ec8e4d85806e6d75</guid>
-            <pubDate>Fri, 12 Dec 2025 14:10:50 GMT</pubDate>
+            <pubDate>Tue, 16 Dec 2025 08:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title>Infinite Mage</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Infinite_Mage.xml</link>
+            <description>Master RSS webtoon feed - Infinite Mage</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/103/conversions/9ab6b724-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">fca6306a1566cf17e0336d891f8b8bfe515f0efe</guid>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Dungeon Odyssey</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Dungeon_Odyssey.xml</link>
+            <description>Master RSS webtoon feed - Dungeon Odyssey</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/198/conversions/fb10ca24-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">09f6e28d2575991c788eb8b16430625460014c78</guid>
+            <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Revenge of the Iron-Blooded Sword Hound</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Revenge_of_the_Iron_Blooded_Sword_Hound.xml</link>
+            <description>Master RSS webtoon feed - Revenge of the Iron-Blooded Sword Hound</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/298/conversions/01J7TV2G7719CVSTSW9T9M6F31-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">480b859e7672c0e0cb3dcf46e028ae2d98b36874</guid>
+            <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Solo Max-Level Newbie</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Solo_Max_Level_Newbie.xml</link>
+            <description>Master RSS webtoon feed - Solo Max-Level Newbie</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/272496/conversions/01JMHFP0DBPD906JMCZNAKG1RH-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">a7c0277d14f2ed6297930da3668ca94b71b79000</guid>
+            <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Level 999 Goblin</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Level_999_Goblin.xml</link>
+            <description>Master RSS webtoon feed - Level 999 Goblin</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/318519/conversions/01JX067TZ58R0DT7VRSWGP03AB-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">59bd5707f54ddf634422c4ab9c4201e5b8f7a168</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Nano Machine</title>
@@ -35,52 +75,12 @@
             <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title>Dungeon Odyssey</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Dungeon_Odyssey.xml</link>
-            <description>Master RSS webtoon feed - Dungeon Odyssey</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/198/conversions/fb10ca24-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">09f6e28d2575991c788eb8b16430625460014c78</guid>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title>Pick Me Up, Infinite Gacha</title>
             <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Pick_Me_Up_Infinite_Gacha.xml</link>
             <description>Master RSS webtoon feed - Pick Me Up, Infinite Gacha</description>
             <content:encoded><![CDATA[<img src="https://i.pinimg.com/1200x/af/a2/5b/afa25baffee54f161ca90a0ea024358b.jpg" />]]></content:encoded>
             <guid isPermaLink="false">819ceab13fa9f3ae1c878c1253b76da245a0ec72</guid>
             <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title>Infinite Mage</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Infinite_Mage.xml</link>
-            <description>Master RSS webtoon feed - Infinite Mage</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/103/conversions/9ab6b724-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">fca6306a1566cf17e0336d891f8b8bfe515f0efe</guid>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title>Revenge of the Iron-Blooded Sword Hound</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Revenge_of_the_Iron_Blooded_Sword_Hound.xml</link>
-            <description>Master RSS webtoon feed - Revenge of the Iron-Blooded Sword Hound</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/298/conversions/01J7TV2G7719CVSTSW9T9M6F31-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">480b859e7672c0e0cb3dcf46e028ae2d98b36874</guid>
-            <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title>Level 999 Goblin</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Level_999_Goblin.xml</link>
-            <description>Master RSS webtoon feed - Level 999 Goblin</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/318519/conversions/01JX067TZ58R0DT7VRSWGP03AB-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">59bd5707f54ddf634422c4ab9c4201e5b8f7a168</guid>
-            <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title>Solo Max-Level Newbie</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Solo_Max_Level_Newbie.xml</link>
-            <description>Master RSS webtoon feed - Solo Max-Level Newbie</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/272496/conversions/01JMHFP0DBPD906JMCZNAKG1RH-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">a7c0277d14f2ed6297930da3668ca94b71b79000</guid>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Global Beast Tamer: I Can See the Path of Evolution</title>
