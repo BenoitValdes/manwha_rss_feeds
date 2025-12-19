@@ -9,14 +9,22 @@
             <url>null</url>
             <link>null</link>
         </image>
-        <pubDate>Tue, 16 Dec 2025 08:30:36 GMT</pubDate>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
         <item>
-            <title>Don’t Toy With Me, Miss Nagatoro</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Dont_Toy_With_Me_Miss_Nagatoro.xml</link>
-            <description>Master RSS webtoon feed - Don’t Toy With Me, Miss Nagatoro</description>
-            <content:encoded><![CDATA[<img src="https://i.ebayimg.com/images/g/d2AAAOSwQtphVSfc/s-l400.jpg" />]]></content:encoded>
-            <guid isPermaLink="false">80282651c138b3337f4bc476ec8e4d85806e6d75</guid>
-            <pubDate>Tue, 16 Dec 2025 08:30:36 GMT</pubDate>
+            <title>Nano Machine</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Nano_Machine.xml</link>
+            <description>Master RSS webtoon feed - Nano Machine</description>
+            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/270399/conversions/01JKTBDEEZRNKTH6TRHPF5PCXM-optimized.webp" />]]></content:encoded>
+            <guid isPermaLink="false">dfd1c90fb307a7deadd63a2fa433217976d59ee8</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Pick Me Up, Infinite Gacha</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Pick_Me_Up_Infinite_Gacha.xml</link>
+            <description>Master RSS webtoon feed - Pick Me Up, Infinite Gacha</description>
+            <content:encoded><![CDATA[<img src="https://i.pinimg.com/1200x/af/a2/5b/afa25baffee54f161ca90a0ea024358b.jpg" />]]></content:encoded>
+            <guid isPermaLink="false">819ceab13fa9f3ae1c878c1253b76da245a0ec72</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Infinite Mage</title>
@@ -51,6 +59,14 @@
             <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title>Don’t Toy With Me, Miss Nagatoro</title>
+            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Dont_Toy_With_Me_Miss_Nagatoro.xml</link>
+            <description>Master RSS webtoon feed - Don’t Toy With Me, Miss Nagatoro</description>
+            <content:encoded><![CDATA[<img src="https://i.ebayimg.com/images/g/d2AAAOSwQtphVSfc/s-l400.jpg" />]]></content:encoded>
+            <guid isPermaLink="false">80282651c138b3337f4bc476ec8e4d85806e6d75</guid>
+            <pubDate>Fri, 12 Dec 2025 14:10:50 GMT</pubDate>
+        </item>
+        <item>
             <title>Level 999 Goblin</title>
             <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Level_999_Goblin.xml</link>
             <description>Master RSS webtoon feed - Level 999 Goblin</description>
@@ -59,27 +75,11 @@
             <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title>Nano Machine</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Nano_Machine.xml</link>
-            <description>Master RSS webtoon feed - Nano Machine</description>
-            <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/270399/conversions/01JKTBDEEZRNKTH6TRHPF5PCXM-optimized.webp" />]]></content:encoded>
-            <guid isPermaLink="false">dfd1c90fb307a7deadd63a2fa433217976d59ee8</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title>Solo Leveling: Ragnarok</title>
             <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Solo_Leveling_Ragnarok.xml</link>
             <description>Master RSS webtoon feed - Solo Leveling: Ragnarok</description>
             <content:encoded><![CDATA[<img src="https://gg.asuracomic.net/storage/media/345171/conversions/01K2MD0YZRJ5VJT31MD5CARAVF-optimized.webp" />]]></content:encoded>
             <guid isPermaLink="false">c20b4e59a253833d5f3043abe2720832cf463a94</guid>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title>Pick Me Up, Infinite Gacha</title>
-            <link>https://raw.githubusercontent.com/BenoitValdes/manwha_rss_feeds/refs/heads/main/Pick_Me_Up_Infinite_Gacha.xml</link>
-            <description>Master RSS webtoon feed - Pick Me Up, Infinite Gacha</description>
-            <content:encoded><![CDATA[<img src="https://i.pinimg.com/1200x/af/a2/5b/afa25baffee54f161ca90a0ea024358b.jpg" />]]></content:encoded>
-            <guid isPermaLink="false">819ceab13fa9f3ae1c878c1253b76da245a0ec72</guid>
             <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
